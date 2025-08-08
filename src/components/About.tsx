@@ -1,6 +1,8 @@
 @@ .. @@
 const About = () => {
    return (
+   )
+}
 -    <section className="py-20 bg-green-50">
 +    <section className="py-20 bg-gradient-to-br from-green-50 via-blue-50 to-purple-50 relative overflow-hidden">
 +      {/* Animated background elements */}
